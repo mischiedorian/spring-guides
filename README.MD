@@ -1,0 +1,1 @@
+Simple example based on https://spring.io/guides
