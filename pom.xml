@@ -6,6 +6,7 @@
 	<modules>
 		<module>SchedulingTasks</module>
 		<module>JPA</module>
+		<module>CachingData</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
