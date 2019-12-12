@@ -1,6 +1,6 @@
 package com.spring.guides;
 
-import com.spring.guides.caching.Customer;
+import com.spring.guides.model.Customer;
 import com.spring.guides.repository.CustomerRepository;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

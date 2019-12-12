@@ -1,4 +1,4 @@
-package com.spring.guides.caching;
+package com.spring.guides.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
