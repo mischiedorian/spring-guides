@@ -8,6 +8,8 @@
 		<module>JPA</module>
 		<module>CachingData</module>
 		<module>SpringWithDocker</module>
+		<module>AccessingDataWithRedis</module>
+		<module>Demo</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
