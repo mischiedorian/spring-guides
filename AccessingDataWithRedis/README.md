@@ -1,3 +1,5 @@
+Spring Guide link: https://spring.io/guides/gs/spring-data-reactive-redis/
+
 Install Redis on your machine
 
 MacOS example:
